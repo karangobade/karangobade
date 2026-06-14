@@ -1,26 +1,126 @@
-<h1>Hi 👋, I'm Karan Gobade</h1>
-<p>Aspiring Software Engineer | Python Developer | Flask & Django Enthusiast | Software Testing | Open to Opportunities</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="display: inline-block;"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/karan-gobade-89129a371/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=karangobade&show_icons=true&locale=en" alt="karangobade" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karangobade&" alt="karangobade" /></p>
- 
- 
+<div align="center">
+
+# Hi there, I'm Karan Gobade 👋
+
+### 🐍 Python Developer · 🌐 Full Stack Developer · 🧪 Software Tester
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-karangobade.github.io-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://karangobade.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karan%20Gobade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-gobade)
+[![Email](https://img.shields.io/badge/Email-karangobade01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karangobade01@gmail.com)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Results-driven IT graduate from **Nagpur, Maharashtra** with hands-on expertise in **Python**, **Full Stack Development**, and **REST APIs**. I build production-ready web applications and AI-powered tools, and I'm passionate about clean code, problem-solving, and continuous learning.
+
+- 🎓 Pursuing **B.Tech in Information Technology** @ Nagpur Institute of Technology (2023–2026)
+- 💼 Currently training as a **Python Full Stack Developer** @ EduSkills Academy (AICTE)
+- 🤖 Built AI/NLP apps using **PyTorch** & **Hugging Face Transformers**
+- 📫 Reach me at **karangobade01@gmail.com** | 📱 +91 7057462075
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Data Science & AI/ML**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+---
+
+## 🚀 Key Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🤖 [AI Text Classification App](#) | Sentiment analysis app — binary text classification (positive/negative) using transformer-based models | Python, PyTorch, HuggingFace |
+| 💰 [Finance Tracker API](#) | Secure RESTful CRUD API for managing personal income & expense records | FastAPI, MySQL |
+| 🐛 [Bug Tracking System](#) | Full bug lifecycle management: report, assign, track, and resolve with priority & dashboard | Python, Full Stack |
+| 🔗 [P2P File Sharing System](#) | Decentralized file transfer with socket programming, secure transfer & data integrity | Python, Sockets |
+| 🎓 [Student Management System](#) | Console-based CRUD app with full data integrity and input validation | Python, MySQL |
+
+---
+
+## 🏆 Certifications
+
+- ☁️ **Oracle Cloud Infrastructure 2025** – Certified Foundations Associate *(May 2026)*
+- 🛡️ **Network Security Associate** – Fortinet & EduSkills / AICTE *(Mar 2024)*
+- 🧪 **Introduction to Software Testing** – Simplilearn SkillUp *(Feb 2026)*
+- 🤖 **Computer Vision App with Azure Cognitive Services** – Microsoft / Coursera *(Aug 2025)*
+- 🧠 **Prompt Engineering with GitHub Copilot** – Microsoft & Simplilearn *(Nov 2025)*
+- 🗄️ **MongoDB Overview: Core Concepts and Architecture** – MongoDB, Inc. *(Dec 2025)*
+- 🐍 **Data Structures & Algorithms in Python** – Simplilearn *(Dec 2025)*
+- ⚡ **Code Generation with Generative AI** – Simplilearn SkillUp *(Feb 2026)*
+- 🌐 **JavaScript for Beginners** – Simplilearn SkillUp *(May 2026)*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karangobade&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karangobade&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=karangobade&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 💼 Work Experience
+
+**🎓 Python Full Stack Developer Training** — EduSkills Academy (AICTE) *(Apr 2026 – Jun 2026)*
+> Built and deployed web apps using Flask, FastAPI, HTML/CSS/JS. Applied NumPy & Pandas for data analysis within projects.
+
+**🔐 Cybersecurity Virtual Internship** — Fortinet & EduSkills (AICTE) *(Jan 2024 – Mar 2024)*
+> Gained hands-on experience in network security, threat detection, and mitigation. Completed 10-week Network Security Associate program.
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Build Something Together!
+
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-0A66C2?style=for-the-badge)](https://karangobade.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karan-gobade)
+
+*"Code is not just logic — it's a craft."*
+
+</div>
