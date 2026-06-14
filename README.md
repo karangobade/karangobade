@@ -1,5 +1,130 @@
 import { useState, useEffect, useRef } from "react";
+<div align="center">
 
+# Hi there, I'm Karan Gobade 👋
+
+### 🐍 Python Developer · 🌐 Full Stack Developer · 🧪 Software Tester
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-karangobade.github.io-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://karangobade.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karan%20Gobade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-gobade)
+[![Email](https://img.shields.io/badge/Email-karangobade01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karangobade01@gmail.com)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Results-driven IT graduate from **Nagpur, Maharashtra** with hands-on expertise in **Python**, **Full Stack Development**, and **REST APIs**. I build production-ready web applications and AI-powered tools, and I'm passionate about clean code, problem-solving, and continuous learning.
+
+- 🎓 Pursuing **B.Tech in Information Technology** @ Nagpur Institute of Technology (2023–2026)
+- 💼 Currently training as a **Python Full Stack Developer** @ EduSkills Academy (AICTE)
+- 🤖 Built AI/NLP apps using **PyTorch** & **Hugging Face Transformers**
+- 📫 Reach me at **karangobade01@gmail.com** | 📱 +91 7057462075
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Data Science & AI/ML**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+---
+
+## 🚀 Key Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🤖 [AI Text Classification App](#) | Sentiment analysis app — binary text classification (positive/negative) using transformer-based models | Python, PyTorch, HuggingFace |
+| 💰 [Finance Tracker API](#) | Secure RESTful CRUD API for managing personal income & expense records | FastAPI, MySQL |
+| 🐛 [Bug Tracking System](#) | Full bug lifecycle management: report, assign, track, and resolve with priority & dashboard | Python, Full Stack |
+| 🔗 [P2P File Sharing System](#) | Decentralized file transfer with socket programming, secure transfer & data integrity | Python, Sockets |
+| 🎓 [Student Management System](#) | Console-based CRUD app with full data integrity and input validation | Python, MySQL |
+
+---
+
+## 🏆 Certifications
+
+- ☁️ **Oracle Cloud Infrastructure 2025** – Certified Foundations Associate *(May 2026)*
+- 🛡️ **Network Security Associate** – Fortinet & EduSkills / AICTE *(Mar 2024)*
+- 🧪 **Introduction to Software Testing** – Simplilearn SkillUp *(Feb 2026)*
+- 🤖 **Computer Vision App with Azure Cognitive Services** – Microsoft / Coursera *(Aug 2025)*
+- 🧠 **Prompt Engineering with GitHub Copilot** – Microsoft & Simplilearn *(Nov 2025)*
+- 🗄️ **MongoDB Overview: Core Concepts and Architecture** – MongoDB, Inc. *(Dec 2025)*
+- 🐍 **Data Structures & Algorithms in Python** – Simplilearn *(Dec 2025)*
+- ⚡ **Code Generation with Generative AI** – Simplilearn SkillUp *(Feb 2026)*
+- 🌐 **JavaScript for Beginners** – Simplilearn SkillUp *(May 2026)*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karangobade&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karangobade&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=karangobade&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 💼 Work Experience
+
+**🎓 Python Full Stack Developer Training** — EduSkills Academy (AICTE) *(Apr 2026 – Jun 2026)*
+> Built and deployed web apps using Flask, FastAPI, HTML/CSS/JS. Applied NumPy & Pandas for data analysis within projects.
+
+**🔐 Cybersecurity Virtual Internship** — Fortinet & EduSkills (AICTE) *(Jan 2024 – Mar 2024)*
+> Gained hands-on experience in network security, threat detection, and mitigation. Completed 10-week Network Security Associate program.
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Build Something Together!
+
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-0A66C2?style=for-the-badge)](https://karangobade.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karan-gobade)
+
+*"Code is not just logic — it's a craft."*
+
+</div>
 const COLORS = {
   bg: "#0d1117",
   surface: "#161b22",
