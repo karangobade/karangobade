@@ -121,6 +121,6 @@ Results-driven IT graduate from **Nagpur, Maharashtra** with hands-on expertise 
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-0A66C2?style=for-the-badge)](https://karangobade.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karan-gobade)
 
-*"Code is not just logic — it's a craft."*
+
 
 </div> 
