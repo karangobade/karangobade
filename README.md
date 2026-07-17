@@ -74,12 +74,14 @@ Results-driven **IT graduate** from Nagpur, Maharashtra with hands-on expertise 
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| ✍️ [Personal Dev Blog](https://karan-gobade.onrender.com/) | Flask-based blog covering my journey as a Python developer — project breakdowns & learnings | Flask, SQLAlchemy, MySQL, Render |
-| 🤖 [AI Text Classification App](#) | Sentiment analysis app — binary text classification (positive/negative) using transformer-based models | Python, PyTorch, HuggingFace |
-| 💰 [Finance Tracker API](#) | Secure RESTful CRUD API for managing personal income & expense records | FastAPI, MySQL |
-| 🐛 [Bug Tracking System](#) | Full bug lifecycle management: report, assign, track, and resolve with priority & dashboard | Python, Full Stack |
-| 🔗 [P2P File Sharing System](#) | Decentralized file transfer with socket programming, secure transfer & data integrity | Python, Sockets |
-| 🎓 [Student Management System](#) | Console-based CRUD app with full data integrity and input validation | Python, MySQL |
+| 🕵️ [Smart Job Scam Detector](https://github.com/karangobade/smart-job-scam-detector) | AI-powered web app that detects fake/scam job postings using an NLP ML classifier — supports text and image (OCR) input | Python, NLP, ML, OCR |
+| ✍️ [Personal Dev Blog](https://karan-gobade.onrender.com/) · [source](https://github.com/karangobade/karan-blog) | Flask-based blog covering my journey as a Python developer — project breakdowns & learnings | Flask, SQLAlchemy, MySQL, Render |
+| 🤖 [AI Text Classification App](https://github.com/karangobade/ai-text-classification-app) | Sentiment analysis app — binary text classification (positive/negative) using transformer-based models | Python, PyTorch, HuggingFace |
+| 💰 [Finance Tracker API](https://github.com/karangobade/finance-tracker) | Secure RESTful CRUD API for managing personal income & expense records | FastAPI, MySQL |
+| 🐛 [Bug Tracking System](https://github.com/karangobade/Bug-Tracking-System) | Full bug lifecycle management: report, assign, track, and resolve with priority & dashboard | Python, Full Stack |
+| 📊 [Dashboard Management System](https://github.com/karangobade/Dashboard-Management-System-Using-Python-Flask) | Dashboard for data management & visualization | Python, Flask, HTML, CSS |
+| 🤖 [Crypto Trading Bot](https://github.com/karangobade/trading_bot) | Automated bot that executes buy/sell orders based on pre-programmed rules via exchange APIs | Python, APIs |
+| 🎓 [Student Management System](https://github.com/karangobade/student_management) | Web app to digitize school admin tasks — manage records, courses & academic data | Python, Flask, MySQL |
 
 ---
 
