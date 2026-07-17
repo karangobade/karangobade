@@ -2,9 +2,10 @@
 
 # Hi there, I'm Karan Gobade 👋
 
-### 🐍 Python Developer · 🌐 Full Stack Developer · 🧪 Software Tester
+### 🐍 Python Developer · 🌐 Full Stack Developer · 🧪 Software Testing Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-karangobade.github.io-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://karangobade.github.io/portfolio)
+[![Blog](https://img.shields.io/badge/Blog-karan--gobade.onrender.com-FF6C37?style=for-the-badge&logo=hashnode&logoColor=white)](https://karan-gobade.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karan%20Gobade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-gobade)
 [![Email](https://img.shields.io/badge/Email-karangobade01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karangobade01@gmail.com)
 
@@ -14,12 +15,16 @@
 
 ## 👨‍💻 About Me
 
-Results-driven IT graduate from **Nagpur, Maharashtra** with hands-on expertise in **Python**, **Full Stack Development**, and **REST APIs**. I build production-ready web applications and AI-powered tools, and I'm passionate about clean code, problem-solving, and continuous learning.
+Results-driven **IT graduate** from Nagpur, Maharashtra with hands-on expertise in **Python**, **Full Stack Development** (Flask, FastAPI, Django), and **REST APIs**. I build production-ready web applications and AI-powered tools, and write about what I learn on my [dev blog](https://karan-gobade.onrender.com/).
 
-- 🎓 Pursuing **B.Tech in Information Technology** @ Nagpur Institute of Technology (2023–2026)
-- 💼 Currently training as a **Python Full Stack Developer** @ EduSkills Academy (AICTE)
+- 🎓 **B.Tech in Information Technology** @ Nagpur Institute of Technology (2023–2026)
+- 💼 Completed **Python Full Stack Developer Training** @ EduSkills Academy (AICTE)
+- 🧑‍💻 Currently interning as a **Python Developer** @ QSkill (Squarcell Resource India Pvt. Ltd)
 - 🤖 Built AI/NLP apps using **PyTorch** & **Hugging Face Transformers**
+- ✍️ I write dev logs & project breakdowns on my [blog](https://karan-gobade.onrender.com/)
+- 🌱 Currently sharpening skills in **QA/SDET & System Design**
 - 📫 Reach me at **karangobade01@gmail.com** | 📱 +91 7057462075
+- 📍 Open to relocation, anywhere in India
 
 ---
 
@@ -61,6 +66,7 @@ Results-driven IT graduate from **Nagpur, Maharashtra** with hands-on expertise 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
 ---
 
@@ -68,6 +74,7 @@ Results-driven IT graduate from **Nagpur, Maharashtra** with hands-on expertise 
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
+| ✍️ [Personal Dev Blog](https://karan-gobade.onrender.com/) | Flask-based blog covering my journey as a Python developer — project breakdowns & learnings | Flask, SQLAlchemy, MySQL, Render |
 | 🤖 [AI Text Classification App](#) | Sentiment analysis app — binary text classification (positive/negative) using transformer-based models | Python, PyTorch, HuggingFace |
 | 💰 [Finance Tracker API](#) | Secure RESTful CRUD API for managing personal income & expense records | FastAPI, MySQL |
 | 🐛 [Bug Tracking System](#) | Full bug lifecycle management: report, assign, track, and resolve with priority & dashboard | Python, Full Stack |
@@ -79,12 +86,12 @@ Results-driven IT graduate from **Nagpur, Maharashtra** with hands-on expertise 
 ## 🏆 Certifications
 
 - ☁️ **Oracle Cloud Infrastructure 2025** – Certified Foundations Associate *(May 2026)*
+- 🗄️ **MongoDB Overview: Core Concepts and Architecture** – MongoDB, Inc. *(Dec 2025)*
 - 🛡️ **Network Security Associate** – Fortinet & EduSkills / AICTE *(Mar 2024)*
 - 🧪 **Introduction to Software Testing** – Simplilearn SkillUp *(Feb 2026)*
+- 🐍 **Data Structures & Algorithms in Python** – Simplilearn *(Dec 2025)*
 - 🤖 **Computer Vision App with Azure Cognitive Services** – Microsoft / Coursera *(Aug 2025)*
 - 🧠 **Prompt Engineering with GitHub Copilot** – Microsoft & Simplilearn *(Nov 2025)*
-- 🗄️ **MongoDB Overview: Core Concepts and Architecture** – MongoDB, Inc. *(Dec 2025)*
-- 🐍 **Data Structures & Algorithms in Python** – Simplilearn *(Dec 2025)*
 - ⚡ **Code Generation with Generative AI** – Simplilearn SkillUp *(Feb 2026)*
 - 🌐 **JavaScript for Beginners** – Simplilearn SkillUp *(May 2026)*
 
@@ -104,7 +111,10 @@ Results-driven IT graduate from **Nagpur, Maharashtra** with hands-on expertise 
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience
+
+**🧑‍💻 Python Development Intern** — QSkill (Squarcell Resource India Pvt. Ltd) *(Jul 2026 – Aug 2026)*
+> Selected for a 1-month Python Development internship. Working on hands-on Python projects to strengthen backend development and problem-solving skills.
 
 **🎓 Python Full Stack Developer Training** — EduSkills Academy (AICTE) *(Apr 2026 – Jun 2026)*
 > Built and deployed web apps using Flask, FastAPI, HTML/CSS/JS. Applied NumPy & Pandas for data analysis within projects.
@@ -119,8 +129,7 @@ Results-driven IT graduate from **Nagpur, Maharashtra** with hands-on expertise 
 ### 🤝 Let's Connect & Build Something Together!
 
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-0A66C2?style=for-the-badge)](https://karangobade.github.io/portfolio)
+[![Blog](https://img.shields.io/badge/Read%20My%20Blog-FF6C37?style=for-the-badge)](https://karan-gobade.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karan-gobade)
 
-
-
-</div> 
+</div>
