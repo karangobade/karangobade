@@ -104,7 +104,7 @@ Results-driven **IT graduate** from Nagpur, Maharashtra with hands-on expertise 
 <div align="center">
 
 
-![Top Languages](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=karangobade&theme=tokyonight&hide_border=true)
 
