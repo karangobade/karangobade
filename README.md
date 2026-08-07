@@ -127,7 +127,7 @@ Results-driven **IT graduate** from Nagpur, Maharashtra with hands-on expertise 
 
 <div align="center">
 
-### 🤝 Let's Connect & Build Something Together!!
+### 🤝 Let's Connect & Build Something Together!
 
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-0A66C2?style=for-the-badge)](https://karangobade.github.io/portfolio)
 [![Blog](https://img.shields.io/badge/Read%20My%20Blog-FF6C37?style=for-the-badge)](https://karan-gobade.onrender.com/)
