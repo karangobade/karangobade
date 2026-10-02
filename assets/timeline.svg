@@ -1,0 +1,28 @@
+<svg width="900" height="370" viewBox="0 0 900 370" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="line" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00F5FF"/><stop offset="0.5" stop-color="#A855F7"/><stop offset="1" stop-color="#FF4D8D"/></linearGradient></defs>
+<rect x="49" y="40" width="3" height="0" rx="1.5" fill="url(#line)"><animate attributeName="height" from="0" to="290" dur="1.6s" fill="freeze"/></rect>
+<circle cx="50" cy="66" r="9" fill="#0b1020" stroke="#00F5FF" stroke-width="3"/>
+<circle cx="50" cy="66" r="9" fill="#00F5FF" opacity="0.5"><animate attributeName="r" values="9;22;9" dur="2.6s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.5;0;0.5" dur="2.6s" begin="0.0s" repeatCount="indefinite"/></circle>
+<rect x="90" y="14" width="790" height="104" rx="16" fill="#0d1220" stroke="#00F5FF" stroke-opacity="0.35"/>
+<rect x="90" y="14" width="5" height="104" rx="2.5" fill="#00F5FF"/>
+<text x="116" y="42" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="12.5" font-weight="700" fill="#00F5FF" letter-spacing="1.5">JUL 2026 - AUG 2026</text>
+<text x="116" y="69" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">Python Development Intern</text>
+<text x="116" y="89" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="13" fill="#00F5FF" fill-opacity="0.9">@ QSkill (Squarcell Resource India Pvt. Ltd)</text>
+<text x="116" y="108" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#94a3b8">Hands-on Python projects to strengthen backend development and problem-solving.</text>
+<circle cx="50" cy="184" r="9" fill="#0b1020" stroke="#A855F7" stroke-width="3"/>
+<circle cx="50" cy="184" r="9" fill="#A855F7" opacity="0.5"><animate attributeName="r" values="9;22;9" dur="2.6s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.5;0;0.5" dur="2.6s" begin="0.5s" repeatCount="indefinite"/></circle>
+<rect x="90" y="132" width="790" height="104" rx="16" fill="#0d1220" stroke="#A855F7" stroke-opacity="0.35"/>
+<rect x="90" y="132" width="5" height="104" rx="2.5" fill="#A855F7"/>
+<text x="116" y="160" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="12.5" font-weight="700" fill="#A855F7" letter-spacing="1.5">APR 2026 - JUN 2026</text>
+<text x="116" y="187" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">Python Full Stack Developer Training</text>
+<text x="116" y="207" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="13" fill="#A855F7" fill-opacity="0.9">@ EduSkills Academy (AICTE)</text>
+<text x="116" y="226" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#94a3b8">Built &amp; deployed web apps with Flask, FastAPI, HTML/CSS/JS. Used NumPy &amp; Pandas.</text>
+<circle cx="50" cy="302" r="9" fill="#0b1020" stroke="#FF4D8D" stroke-width="3"/>
+<circle cx="50" cy="302" r="9" fill="#FF4D8D" opacity="0.5"><animate attributeName="r" values="9;22;9" dur="2.6s" begin="1.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.5;0;0.5" dur="2.6s" begin="1.0s" repeatCount="indefinite"/></circle>
+<rect x="90" y="250" width="790" height="104" rx="16" fill="#0d1220" stroke="#FF4D8D" stroke-opacity="0.35"/>
+<rect x="90" y="250" width="5" height="104" rx="2.5" fill="#FF4D8D"/>
+<text x="116" y="278" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="12.5" font-weight="700" fill="#FF4D8D" letter-spacing="1.5">JAN 2024 - MAR 2024</text>
+<text x="116" y="305" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">Cybersecurity Virtual Internship</text>
+<text x="116" y="325" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="13" fill="#FF4D8D" fill-opacity="0.9">@ Fortinet &amp; EduSkills (AICTE)</text>
+<text x="116" y="344" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#94a3b8">Network security, threat detection &amp; mitigation. Completed 10-week NSA program.</text>
+</svg>
